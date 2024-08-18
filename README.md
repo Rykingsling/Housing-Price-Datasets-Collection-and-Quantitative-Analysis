@@ -17,7 +17,7 @@ How to use:
     * python main_crawel.py
   
 
-  
-Specific datasets was like following. I will publish them after my paper published, if you want to collect them in advance, pls contact me through issues.
-(only for research, if you have any commerical action or plagiarism, this is not allowed, I reserve the legal right.)
+The specific datasets are partly listed below. I will release them after my paper is published. If you need early access, please contact me through the issues section.
+
+These datasets are for research purposes only. Any unauthorized commercial use or plagiarism from other sources is strictly prohibited. I reserve the right to take legal action if necessary.
 ![image](https://github.com/user-attachments/assets/d3116311-d035-4ca7-a2c1-7a566c4437a4)
